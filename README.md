@@ -1,2 +1,2 @@
 # training
-This is my first repository
+First Repository 
